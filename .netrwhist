@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='C:/Users/Ryan/Projects/podcastRedesign/Serve-Less/views'
+let g:netrw_dirhist_2='C:/xampp/htdocs/cpdc7/sites/all/themes/responsiveBase/sass'
+let g:netrw_dirhist_3='C:/Users/Ryan/Projects/smarterStyling/Smarter-Styling-With-Sass/codeSamples/musicalMarkup'
